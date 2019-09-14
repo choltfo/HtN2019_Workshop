@@ -1,7 +1,7 @@
 # HtN2019_Workshop
 Demo code, schematics, and slides for the Hack the North 2019 motor control workshop.
 
-## DC motor
+## DC motors
 DC motor control code from Charles Holtforster
 ```C
 const int gatePin = 9; // Pin number that is connected to the MOSFET gate.
